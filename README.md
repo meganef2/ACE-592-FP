@@ -7,7 +7,7 @@ This readme file explains the organization of the repository and the background 
 The data for this analysis includes county-level data from the Illinois Farm Business Farm Management (FBFM) system and Summary of Business data from the United States Department of Agriculture Risk Management Agency. 
 Using this data, the group analyzes trends in farm data regaring coverage levels of crop insurance and types of land ownership. This project will also examine whether risk preferences predict Illinois farmland lease types, as well as what the shift in lease types over time implies about changes in risk preferences.
 
-The directory "ACE 592 Final Project" contains a majority of the code for this project. This code should be ran in the sequence of occurence provided in the directory. This includes the initial reading in and cleaning of the data, as well as plotting maps and graphs of trends over time. 
+The directory "ACE 592 Final Project" contains a majority of the code for this project. This code should be ran in the sequence of occurence provided in the directory. This includes the initial reading in and cleaning of the data, as well as plotting maps and graphs of trends over time. This directory was created as a group on one computer during meetings.
 
 The variables for the crop insurance can be further explained by the following:
    
@@ -51,20 +51,3 @@ Additionally, the FBFM data includes the following variables:
     Owned_acres: Total owned acres in the county.
     
     SPR: The average soil productivity rating for farms in the county.
-
-
-
-
-The directory "Statistical Analysis" contains the code for examining...
-
-
-
-
-
-
-
-## Does it tell me the basic info about the project?
-
-## Does it tell me how to navigate the directories?
-
-## Does it tell me how to run the code? 
