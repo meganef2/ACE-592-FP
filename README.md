@@ -54,8 +54,10 @@ Additionally, the FBFM data includes the following variables:
     
     
 ## Data Directories
-The directory titled "d01" houses all of the files concerning the FBFM lease type data.'
+The directory titled "d01" houses all of the files concerning the FBFM lease type data.
 
 The directory titled "d02" contains all of the Illinois shapefile data. 
 
 The directory title "d03" consist of each year of the insurance data.
+
+Lastly, the directory "ACE 592 Final Paper" is the write-up for the project. 
