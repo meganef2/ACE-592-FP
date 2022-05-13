@@ -51,3 +51,11 @@ Additionally, the FBFM data includes the following variables:
     Owned_acres: Total owned acres in the county.
     
     SPR: The average soil productivity rating for farms in the county.
+    
+    
+## Data Directories
+The directory titled "d01" houses all of the files concerning the FBFM lease type data.'
+
+The directory titled "d02" contains all of the Illinois shapefile data. 
+
+The directory title "d03" consist of each year of the insurance data.
