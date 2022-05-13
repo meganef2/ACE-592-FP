@@ -15,7 +15,7 @@ The variables for the crop insurance can be further explained by the following:
     
     State Code: The FIPS code that denotes the State in which the insured farm is located.
    
-    State Abbreviation:	USPS state abbreviation
+    State Abbreviation: USPS state abbreviation
     
     County Code: A FIPS code indicating the county in which the insured farm is located
     
@@ -58,6 +58,6 @@ The directory titled "d01" houses all of the files concerning the FBFM lease typ
 
 The directory titled "d02" contains all of the Illinois shapefile data. 
 
-The directory title "d03" consist of each year of the insurance data.
+The directory titled "d03" consist of each year of the insurance data.
 
 Lastly, the directory "ACE 592 Final Paper" is the write-up for the project. 
